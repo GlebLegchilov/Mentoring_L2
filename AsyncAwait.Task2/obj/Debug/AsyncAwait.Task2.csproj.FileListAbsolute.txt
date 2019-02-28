@@ -1,0 +1,10 @@
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.exe.config
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.pdb
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csprojAssemblyReference.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.Properties.Resources.resources
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csproj.GenerateResource.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csproj.CoreCompileInputs.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.pdb
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.RequestManagerForm.resources

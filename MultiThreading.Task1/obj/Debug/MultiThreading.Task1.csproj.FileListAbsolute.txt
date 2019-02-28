@@ -1,0 +1,7 @@
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\bin\Debug\MultiThreading.Task1.exe.config
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\bin\Debug\MultiThreading.Task1.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\bin\Debug\MultiThreading.Task1.pdb
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\obj\Debug\MultiThreading.Task1.csprojAssemblyReference.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\obj\Debug\MultiThreading.Task1.csproj.CoreCompileInputs.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\obj\Debug\MultiThreading.Task1.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task1\obj\Debug\MultiThreading.Task1.pdb

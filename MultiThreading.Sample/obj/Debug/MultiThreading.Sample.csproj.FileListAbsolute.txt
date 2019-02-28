@@ -1,0 +1,9 @@
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\bin\Debug\MultiThreading.Sample.exe.config
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\bin\Debug\MultiThreading.Sample.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\bin\Debug\MultiThreading.Sample.pdb
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.csprojAssemblyReference.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.Properties.Resources.resources
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.csproj.GenerateResource.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.csproj.CoreCompileInputs.cache
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.exe
+C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Sample\obj\Debug\MultiThreading.Sample.pdb
