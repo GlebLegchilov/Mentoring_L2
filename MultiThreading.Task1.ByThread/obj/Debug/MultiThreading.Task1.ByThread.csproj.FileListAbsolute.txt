@@ -1,0 +1,7 @@
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\bin\Debug\MultiThreading.Task1.ByThread.exe.config
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\bin\Debug\MultiThreading.Task1.ByThread.exe
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\bin\Debug\MultiThreading.Task1.ByThread.pdb
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\obj\Debug\MultiThreading.Task1.ByThread.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\obj\Debug\MultiThreading.Task1.ByThread.exe
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\obj\Debug\MultiThreading.Task1.ByThread.pdb
+C:\Work\courses\L2\MultiThreading.Task1.ByThread\obj\Debug\MultiThreading.Task1.ByThread.csprojAssemblyReference.cache

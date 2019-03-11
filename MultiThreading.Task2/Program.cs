@@ -12,6 +12,8 @@ namespace MultiThreading.Task2
         private const string FourthTaskInfoString = "Task #4 – Average is {0}";
         private const int ArraySize = 10;
 
+        private static Random _random = new Random();
+
         public static void Main(string[] args)
         {
             Task.Factory
@@ -25,11 +27,10 @@ namespace MultiThreading.Task2
 
         private static int[] FirstTask()
         {
-            var random = new Random();
             var intArray = new int[ArraySize];
             for (var i = 0; i< intArray.Length; i++)
             {
-                intArray[i] = random.Next(1, 10);
+                intArray[i] = _random.Next(1, 10);
                 Console.WriteLine(string.Format(FirstTaskInfoString, i, intArray[i]));
             }
 
@@ -38,10 +39,9 @@ namespace MultiThreading.Task2
 
         private static int[] SecondTask(int[] intArray)
         {
-            var random = new Random();
             for (var i = 0; i < intArray.Length; i++)
             {
-                intArray[i] = intArray[i] + random.Next(1, 10);
+                intArray[i] = intArray[i] + _random.Next(1, 10);
                 Console.WriteLine(string.Format(SecondTaskInfoString, i, intArray[i]));
             }
             return intArray;

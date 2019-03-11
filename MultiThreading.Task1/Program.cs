@@ -10,6 +10,7 @@ namespace MultiThreading.Task1
         private const int IterationStartNumber = 1;
         private const int IterationEndNumber = 1000;
 
+        // 11 seconds
         public static void Main(string[] args)
         {
             var tasksArray = new Task[ArraySize];
