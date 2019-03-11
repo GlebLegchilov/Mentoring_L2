@@ -2,19 +2,19 @@
 
 namespace AsyncAwait.Task4.Models
 {
-    [Table(Name = "User")]
+    //[Table(Name = "User")]
     public class User
     {
-        [Column(IsPrimaryKey = true, IsDbGenerated = true)]
+        //[Column(IsPrimaryKey = true, IsDbGenerated = true)]
         public int Id { get; set; }
 
-        [Column]
+        //[Column]
         public string Name { get; set; }
 
-        [Column]
+        //[Column]
         public string SecondName { get; set; }
 
-        [Column]
+        //[Column]
         public int Age { get; set; }
     }
 }

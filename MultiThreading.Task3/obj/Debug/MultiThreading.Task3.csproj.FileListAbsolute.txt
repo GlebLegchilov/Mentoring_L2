@@ -5,3 +5,10 @@ C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task3\obj\Debug
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.exe
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.pdb
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.csprojAssemblyReference.cache
+C:\Work\courses\L2\MultiThreading.Task3\bin\Debug\MultiThreading.Task3.exe.config
+C:\Work\courses\L2\MultiThreading.Task3\bin\Debug\MultiThreading.Task3.exe
+C:\Work\courses\L2\MultiThreading.Task3\bin\Debug\MultiThreading.Task3.pdb
+C:\Work\courses\L2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.csprojAssemblyReference.cache
+C:\Work\courses\L2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.exe
+C:\Work\courses\L2\MultiThreading.Task3\obj\Debug\MultiThreading.Task3.pdb

@@ -5,3 +5,9 @@ C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task1\obj\Debug\Asy
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.exe
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.pdb
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.csprojAssemblyReference.cache
+C:\Work\courses\L2\AsyncAwait.Task1\bin\Debug\AsyncAwait.Task1.exe.config
+C:\Work\courses\L2\AsyncAwait.Task1\bin\Debug\AsyncAwait.Task1.exe
+C:\Work\courses\L2\AsyncAwait.Task1\bin\Debug\AsyncAwait.Task1.pdb
+C:\Work\courses\L2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.exe
+C:\Work\courses\L2\AsyncAwait.Task1\obj\Debug\AsyncAwait.Task1.pdb

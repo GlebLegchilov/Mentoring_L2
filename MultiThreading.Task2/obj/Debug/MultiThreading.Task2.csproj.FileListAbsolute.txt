@@ -5,3 +5,10 @@ C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task2\obj\Debug
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.csproj.CoreCompileInputs.cache
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.exe
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.pdb
+C:\Work\courses\L2\MultiThreading.Task2\bin\Debug\MultiThreading.Task2.exe.config
+C:\Work\courses\L2\MultiThreading.Task2\bin\Debug\MultiThreading.Task2.exe
+C:\Work\courses\L2\MultiThreading.Task2\bin\Debug\MultiThreading.Task2.pdb
+C:\Work\courses\L2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.csprojAssemblyReference.cache
+C:\Work\courses\L2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.exe
+C:\Work\courses\L2\MultiThreading.Task2\obj\Debug\MultiThreading.Task2.pdb
