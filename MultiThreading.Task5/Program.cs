@@ -6,7 +6,7 @@ namespace MultiThreading.Task5
     class Program
     {
         private static int ThreadCount = 10;
-        private static Semaphore Sem = new Semaphore(10, 10);
+        private static Semaphore Sem = new Semaphore(1, 1);
 
         public static void Main(string[] args)
         {
@@ -29,3 +29,4 @@ namespace MultiThreading.Task5
         }
     }
 }
+

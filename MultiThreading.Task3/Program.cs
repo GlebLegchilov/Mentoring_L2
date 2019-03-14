@@ -6,6 +6,7 @@ namespace MultiThreading.Task3
     public class Program
     {
         private const int MatrixSize = 9;
+        private static Random _random = new Random();
 
         public static void Main(string[] args)
         {
@@ -51,14 +52,13 @@ namespace MultiThreading.Task3
 
         private static int[,] CreateMatrix()
         {
-            var random = new Random();
             var matrix = new int[MatrixSize, MatrixSize];
 
             for (int i = 0; i < MatrixSize; i++)
             {
                 for (int j = 0; j < MatrixSize; j++)
                 {
-                    matrix[i, j] = random.Next(1, 10);
+                    matrix[i, j] = _random.Next(1, 10);
                 }
             }
 
@@ -66,3 +66,4 @@ namespace MultiThreading.Task3
         }
     }
 }
+

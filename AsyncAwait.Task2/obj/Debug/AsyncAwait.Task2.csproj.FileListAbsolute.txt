@@ -8,3 +8,13 @@ C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\Asy
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.exe
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.pdb
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.RequestManagerForm.resources
+C:\Work\courses\L2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.exe.config
+C:\Work\courses\L2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.exe
+C:\Work\courses\L2\AsyncAwait.Task2\bin\Debug\AsyncAwait.Task2.pdb
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csprojAssemblyReference.cache
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.RequestManagerForm.resources
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.Properties.Resources.resources
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csproj.GenerateResource.cache
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.exe
+C:\Work\courses\L2\AsyncAwait.Task2\obj\Debug\AsyncAwait.Task2.pdb

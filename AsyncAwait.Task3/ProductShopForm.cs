@@ -24,7 +24,9 @@ namespace AsyncAwait.Task3
             var addProductTask = _productShop.AddProductToBasketAsync(
                 _productShop
                     .ShopList
-                    .First(product => Equals(product.Name, selectedProduct)));
+                    .First(product => Equals(
+                        product.Name + " " + product.Price.ToString(),
+                        selectedProduct)));
 
             RefreshBusketListBoxAsync(addProductTask);
             RefreshTotalPriceLabelAsync(addProductTask);
@@ -36,7 +38,9 @@ namespace AsyncAwait.Task3
             var excludeProductTask = _productShop.ExcludeProductFromBasketAsync(
                 _productShop
                     .ShopList
-                    .First(product => Equals(product.Name, selectedProduct)));
+                    .First(product => Equals(
+                        product.Name + " " + product.Price.ToString(),
+                        selectedProduct)));
 
             RefreshBusketListBoxAsync(excludeProductTask);
             RefreshTotalPriceLabelAsync(excludeProductTask);

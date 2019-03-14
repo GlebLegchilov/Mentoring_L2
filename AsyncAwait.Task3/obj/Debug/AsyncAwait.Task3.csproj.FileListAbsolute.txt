@@ -8,3 +8,13 @@ C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task3\obj\Debug\Asy
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.csproj.CoreCompileInputs.cache
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.exe
 C:\Users\Hleb_Liahchylau\source\repos\MentoringL2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.pdb
+C:\Work\courses\L2\AsyncAwait.Task3\bin\Debug\AsyncAwait.Task3.exe.config
+C:\Work\courses\L2\AsyncAwait.Task3\bin\Debug\AsyncAwait.Task3.exe
+C:\Work\courses\L2\AsyncAwait.Task3\bin\Debug\AsyncAwait.Task3.pdb
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.csprojAssemblyReference.cache
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.ProductShopForm.resources
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.Properties.Resources.resources
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.csproj.GenerateResource.cache
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.exe
+C:\Work\courses\L2\AsyncAwait.Task3\obj\Debug\AsyncAwait.Task3.pdb

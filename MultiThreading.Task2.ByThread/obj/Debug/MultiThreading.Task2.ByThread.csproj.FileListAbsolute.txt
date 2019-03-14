@@ -1,0 +1,6 @@
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\bin\Debug\MultiThreading.Task2.ByThread.exe.config
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\bin\Debug\MultiThreading.Task2.ByThread.exe
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\bin\Debug\MultiThreading.Task2.ByThread.pdb
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\obj\Debug\MultiThreading.Task2.ByThread.csproj.CoreCompileInputs.cache
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\obj\Debug\MultiThreading.Task2.ByThread.exe
+C:\Work\courses\L2\MultiThreading.Task2.ByThread\obj\Debug\MultiThreading.Task2.ByThread.pdb
